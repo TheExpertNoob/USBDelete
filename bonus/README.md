@@ -1,1 +1,1 @@
-## Aditional files for digispark USB
+## Additional files for digispark USB
