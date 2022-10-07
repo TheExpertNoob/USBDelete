@@ -8,10 +8,8 @@ Useful for servers that take 5 mins to initialize and the User doesnt want to st
 Included are the Gerber files for fabing your own, no IO digispark clone.
 or you can order the boards [here](https://oshpark.com/shared_projects/NsB0rn4L). Parts can be had from digikey.
 
-
 ## HowTo
-Some info to come here soon.
-
+You will want to burn the [Micronucleus](https://github.com/micronucleus/micronucleus) bootloader to the ATTiny85. I'll post some instructions on that, hopefully, in the future.
 
 ## Problems
 Here are a couple of issues that needs to be fixed:
